@@ -1,25 +1,25 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
-    "version": "2.1.0",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "name": "ashveil",
+    "preductname": "Ashveil Launcher",
+    "version": "1.0.0",
+    "description": "Launcher Mincraft pour le serveur Ashveil",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
+        "name": "luuxis,Zarkyan, Inc.",
         "email": "contact@luuxis.fr",
-        "url": "https://github.com/luuxis"
+        "url": "http://82.64.104.223/launcher"
     },
-    "url": "http://launcher.luuxis.fr",
+    "url": "http://82.64.104.223/launcher",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://raw.githubusercontent.com/luuxis/Selvania-Launcher/master/src/assets/images/icon.png"
+        "icon": "node build.js --icon=http://82.64.104.223/launcher/icon.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
         "ext": "js,html,css",
-        "ignore": "**/test"
+        "ignore": "**/test" 
     },
     "dependencies": {
         "electron-updater": "^6.1.8",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/Zarkyan/Ashveil.git"
     }
 }
