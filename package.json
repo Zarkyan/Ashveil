@@ -1,11 +1,11 @@
 {
     "name": "ashveil",
     "preductname": "Ashveil-Launcher",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Launcher Mincraft pour le serveur Ashveil",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis,Zarkyan, Inc.",
+        "name": "luuxis, Zarkyan, Inc.",
         "email": "contact@luuxis.fr",
         "url": "http://82.64.104.223/launcher"
     },
