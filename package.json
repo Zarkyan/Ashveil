@@ -1,7 +1,7 @@
 {
     "name": "ashveil",
     "preductname": "Ashveil-Launcher",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Launcher Minecraft pour le serveur Ashveil",
     "main": "src/app.js",
     "author": {
