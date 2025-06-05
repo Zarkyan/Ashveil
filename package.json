@@ -1,8 +1,8 @@
 {
     "name": "ashveil",
     "preductname": "Ashveil-Launcher",
-    "version": "1.0.5",
-    "description": "Launcher Mincraft pour le serveur Ashveil",
+    "version": "1.0.6",
+    "description": "Launcher Minecraft pour le serveur Ashveil",
     "main": "src/app.js",
     "author": {
         "name": "luuxis, Zarkyan, Inc.",
